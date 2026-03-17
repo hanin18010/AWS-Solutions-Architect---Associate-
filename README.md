@@ -43,7 +43,7 @@ The Application Load Balancer distributes incoming traffic across multiple EC2 i
 
 ## Architecture Diagram
 
-![Architecture](architecture-diagram.png)
+graduation.jpg
 
 ---
 
